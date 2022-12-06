@@ -18,11 +18,8 @@ a start button that, when pressed, starts a timer and displays the first questio
 
 Visit the [deployed application](https://reinkaoss.github.io/js-quizz/), please click the 'Start Quiz' button to start the quizz!
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![Main quizz UI](./assets/Screenshot.png)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## License
 
